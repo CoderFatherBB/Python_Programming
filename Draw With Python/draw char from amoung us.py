@@ -1,6 +1,6 @@
 import turtle
 
-BODY_COLOR =  'green'
+BODY_COLOR =  'red'
 BODY_SHADOW = ''
 GLASS_COLOR = '#9acedc'
 GLASS_SHADOW = ''

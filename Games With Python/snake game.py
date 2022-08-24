@@ -42,7 +42,7 @@ def gameloop():
     food_x = random.randint(20, screen_width-20)
     food_y = random.randint(60, screen_height -20)
     score = 0
-    init_velocity = 8
+    init_velocity = 4
     snake_size = 30
     fps = 60   # fps = frames per second
     while not exit_game:

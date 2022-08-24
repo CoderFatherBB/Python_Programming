@@ -3,6 +3,7 @@ import speech_recognition as sr
 import datetime
 import webbrowser
 import pyttsx3
+import pyaudio
 
 
 # initializing the module
